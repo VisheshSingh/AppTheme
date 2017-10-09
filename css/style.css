@@ -154,6 +154,17 @@ footer{
     color:#fff;
 }
 
+/*Page*/
+#page {
+    margin-bottom: 40px;
+}
+
+/*Subheader*/
+#subheader {
+    background: #333;
+    color: #fff;
+}
+
 /*Media Queries*/
 @media(max-width: 800px) {
     #showcase h1 {
