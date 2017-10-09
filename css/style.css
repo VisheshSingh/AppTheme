@@ -144,8 +144,9 @@ img{
 #company button {
     background: #222;
     color:#fff;
-    padding: 10px;
+    padding: 15px;
     border: 0;
+    font-size: 17px;
 }
 
 /*Footer*/
